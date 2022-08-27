@@ -28,6 +28,22 @@ Il peut consulter son dossier à tout moment en fournissant son numéro de tél�
 
 
 
+![image](https://user-images.githubusercontent.com/48655888/187009508-7fd57160-4ac3-410b-a21d-d1b6ab4ee1b8.png)
+
+
+# Partie Administrateur
+
+![image](https://user-images.githubusercontent.com/48655888/187009612-ac495ba1-9fd0-4365-bff0-0ebcbeae0b15.png)
+
+
+# Partie préposé
+
+![image](https://user-images.githubusercontent.com/48655888/187009686-203fa94b-c376-4211-8d07-bdc4c26485a2.png)
+
+
+
+
+
 # Partie concernant les documents : 
 
 la recherche doit être possible par auteur ou par mots clés.
