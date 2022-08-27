@@ -20,7 +20,7 @@ public class DemarrerAppli extends Application  {
 	/*
 	 
 	  Membres de l'équipe :  -Sami Medelci
-	  						 -Isabelle Machado
+				 -Isabelle
 	  
 	  
 	Information de connection
